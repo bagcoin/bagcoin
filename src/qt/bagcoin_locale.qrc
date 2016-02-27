@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file alias="bar">locale/bagcoin_bar.qm</file>
+        <file alias="ca">locale/bagcoin_ca.qm</file>
+        <file alias="cmn">locale/bagcoin_cmn.qm</file>
+        <file alias="cs">locale/bagcoin_cs.qm</file>
+        <file alias="da">locale/bagcoin_da.qm</file>
+        <file alias="de">locale/bagcoin_de.qm</file>
+        <file alias="el">locale/bagcoin_el.qm</file>
+        <file alias="en">locale/bagcoin_en.qm</file>
+        <file alias="eo">locale/bagcoin_eo.qm</file>
+        <file alias="es">locale/bagcoin_es.qm</file>
+        <file alias="fi">locale/bagcoin_fi.qm</file>
+        <file alias="fr">locale/bagcoin_fr.qm</file>
+        <file alias="hu_HU">locale/bagcoin_hu_HU.qm</file>
+        <file alias="it">locale/bagcoin_it.qm</file>
+        <file alias="lv_LV">locale/bagcoin_lv_LV.qm</file>
+        <file alias="nb">locale/bagcoin_nb.qm</file>
+        <file alias="nl">locale/bagcoin_nl.qm</file>
+        <file alias="pl">locale/bagcoin_pl.qm</file>
+        <file alias="pt">locale/bagcoin_pt.qm</file>
+        <file alias="pt_BR">locale/bagcoin_pt_BR.qm</file>
+        <file alias="ru">locale/bagcoin_ru.qm</file>
+        <file alias="sk">locale/bagcoin_sk.qm</file>
+        <file alias="sv">locale/bagcoin_sv.qm</file>
+        <file alias="tr">locale/bagcoin_tr.qm</file>
+        <file alias="vi">locale/bagcoin_vi.qm</file>
+        <file alias="zh_CN">locale/bagcoin_zh_CN.qm</file>
+        <file alias="zh_HK">locale/bagcoin_zh_HK.qm</file>
+    </qresource>
+</RCC>
