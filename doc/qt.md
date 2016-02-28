@@ -28,3 +28,6 @@ make
 
 
 set PATH=%PATH%;F:\deps\qtbase-opensource-src-5.2.1\bin
+
+
+qmake.exe bagcoin-qt.pro -r -spec win32-g++
