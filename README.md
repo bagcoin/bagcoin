@@ -1,7 +1,7 @@
 Bagcoin Core staging tree 0.12
 ===============================
 
-https://www.bagcoin.com
+http://www.bagcoin.com
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
 
@@ -18,7 +18,7 @@ are carried out collectively by the network. Bagcoin Core is the name of open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bagcoin Core software, see https://www.bagcoin.com.
+the Bagcoin Core software, see http://www.bagcoin.com.
 
 
 License
