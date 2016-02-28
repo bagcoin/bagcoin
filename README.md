@@ -5,7 +5,7 @@ http://www.bagcoin.com
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
 
-Copyright (c) 2014-2015 Bagcoin Core Developers
+Copyright (c) 2015-2016 Bagcoin Core Developers
 
 
 What is Bagcoin?
