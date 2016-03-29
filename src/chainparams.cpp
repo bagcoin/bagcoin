@@ -189,12 +189,12 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x42677e4bfa0d587c0462314c67a29191924fae10a3814a40dcd23614e0b013af"));
 #endif
 
-        vSeeds.push_back(CDNSSeedData("seed.bagcoin.com", "seed.bagcoin.com"));
-        vSeeds.push_back(CDNSSeedData("seed1.bagcoin.com", "seed1.bagcoin.com"));
-        vSeeds.push_back(CDNSSeedData("seed2.bagcoin.com", "seed2.bagcoin.com"));
-        vSeeds.push_back(CDNSSeedData("seed3.bagcoin.com", "seed3.bagcoin.com"));
-        vSeeds.push_back(CDNSSeedData("seed4.bagcoin.com", "seed4.bagcoin.com"));
-        vSeeds.push_back(CDNSSeedData("seed5.bagcoin.com", "seed5.bagcoin.com"));
+        vSeeds.push_back(CDNSSeedData("seed.bagcoin.org", "seed.bagcoin.org"));
+        vSeeds.push_back(CDNSSeedData("seed1.bagcoin.org", "seed1.bagcoin.org"));
+        vSeeds.push_back(CDNSSeedData("seed2.bagcoin.org", "seed2.bagcoin.org"));
+        vSeeds.push_back(CDNSSeedData("seed3.bagcoin.org", "seed3.bagcoin.org"));
+        vSeeds.push_back(CDNSSeedData("seed4.bagcoin.org", "seed4.bagcoin.org"));
+        vSeeds.push_back(CDNSSeedData("seed5.bagcoin.org", "seed5.bagcoin.org"));
 		
 		base58Prefixes[PUBKEY_ADDRESS] = list_of(18);
 		base58Prefixes[SCRIPT_ADDRESS] = list_of(5);

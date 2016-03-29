@@ -45,8 +45,8 @@ bool IsSyncingMasternodeAssets(){
 
 /* *** BEGIN DARKSEND MAGIC - PLC **********
     Copyright (c) 2014-2015, Bagcoin Developers
-        eduffield - evan@bagcoin.com
-        udjinm6   - udjinm6@bagcoin.com
+        eduffield - evan@bagcoin.org
+        udjinm6   - udjinm6@bagcoin.org
 */
 
 void CDarksendPool::ProcessMessageDarksend(CNode* pfrom, std::string& strCommand, CDataStream& vRecv)

@@ -1510,6 +1510,11 @@ int64_t GetBlockValue(int nBits, int nHeight, const CAmount& nFees)
 {
     int64_t nSubsidy = 50 * COIN;
     int halvings = nHeight / Params().SubsidyHalvingInterval();
+	
+	if (nHeight > 70000) {
+		nSubsidy = 5 * COIN;
+		halvings = nHeight / (Params().SubsidyHalvingInterval() * 7);
+	}
 
     // Force block reward to zero when right shift is undefined.
     if (halvings >= 64)
